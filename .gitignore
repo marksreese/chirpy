@@ -1,0 +1,13 @@
+# Environment variables and secrets
+.env
+
+# Compiled binaries
+chirpy
+chirpy.exe
+*.exe
+
+# Editor artifacts
+.DS_Store
+.idea/
+.vscode/
+*.swp
