@@ -1,0 +1,1 @@
+This is a microblogging mock project to learn API development and authentication/authorization. The project is written in Go using sqlc to generate type-safe queries and postgres for storing users and chirps (tweets). 
